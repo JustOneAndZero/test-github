@@ -17,6 +17,13 @@ require_once("PHPParser.php");
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
  * Lesser General Public License for more details.
+
+ just a test
+ 
+ to see if it can detect or not
+ 
+ nothing else in this page
+
  *
  * You should have received a copy of the GNU Lesser General Public
  * License along with this library; if not, write to the Free Software
